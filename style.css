@@ -78,6 +78,24 @@ form label, form legend{
     margin: 20px 0; 
 }
 
+table{
+    margin: 20px 0 40px;
+}
+
+thead{
+    font-weight: bold;
+    color: white;
+    background: #555555;
+}
+
+th, td{
+    border: solid black 2px;
+    padding: 8px 15px;
+    font-size: 18px;
+}
+
+
+
 
 footer{
     text-align: center;
