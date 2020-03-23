@@ -38,7 +38,7 @@ nav a:hover{
 }
 
 form{
-    margin: 40px 0;
+    margin: 40px 40px;
 }
 
 form label, form legend{
@@ -78,7 +78,7 @@ form label, form legend{
 }
 
 table{
-    margin: 20px 0 40px;
+    margin: 20px 40px 40px;
 }
 
 thead{
@@ -212,7 +212,7 @@ footer{
         padding: 0 20px 10px;
     }
     
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .form{
         width: auto;
     }
 
@@ -242,6 +242,25 @@ footer{
         width: 90%;
     }
 
+    form label, form legend {
+        font-size: 1.2em;
+    }
+    
+    .enviar{
+        width: 100%;
+    }
+
+    .input-padrao, form textarea {
+        width: 80%;
+    }
+
+    fieldset{
+        margin-bottom: 20px;
+    }
+
+    table{
+        margin: 40px 40px;
+    } 
 
 }
 
