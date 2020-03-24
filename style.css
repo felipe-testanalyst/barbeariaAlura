@@ -212,8 +212,8 @@ footer{
         padding: 0 20px 10px;
     }
     
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .form{
-        width: auto;
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .form, .mapa p{
+        width: 90%;
     }
 
     h1{
