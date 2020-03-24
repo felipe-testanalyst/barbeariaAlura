@@ -42,3 +42,20 @@
     font-weight: bold;
     margin-top: 10px ;
 }
+
+@media screen and (max-width: 780px) {
+
+    .produtos{
+        text-align: center;
+        width: 100%;
+    
+    }
+ 
+
+    .produtos li{
+        display: block;
+        width: 90%;
+        margin: 0 0 20px 20px;
+    }
+
+}
