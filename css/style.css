@@ -1,0 +1,52 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    padding:0 20px;
+    background: #BBBBBB;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+nav a:hover{
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+
+
+footer{
+    text-align: center;
+    background: url(/Users/Felipe/Repos/Alura/BarbeariaAlura/images/bg.jpg);
+    padding: 40px 0;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
